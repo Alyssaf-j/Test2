@@ -1,5 +1,57 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston walks in the room and introduces herself."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6a450748-a863-4f8b-9652-16017d3e08aa"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hello, my name is Zora Neale Hurston."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        }
+      ],
+      "uuid": "9ac22f15-1de7-4a63-b8d8-ae8e890eba0e"
+    }
+  ],
   "set": "Default",
   "event_id": "a265d9be-9e1a-4a5e-92d6-fad29e4a8463",
   "source_id": "b28de80a-815c-4ebb-84ca-89671f39b42d"
